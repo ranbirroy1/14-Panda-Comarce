@@ -1,9 +1,10 @@
-
+/* Headphone,Television, xbox and subscribe */
 .info-backgound{
     background-color: 
     #FEEAE9;
 }
 
+/*all=section */
 .panda-btn-buy-now{
     color: white;
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff4b92 100%);
@@ -12,6 +13,18 @@
     border: none;
 }
 
+/* section=>1  */
 .catagories img{
     width: 100px;
+}
+
+/* Headphone,Television, xbox */
+.roy{
+    
+    border-radius: 5px;
+}
+
+/* menu/nevbar */
+.ex-light{
+    background-color: rgb(250, 167, 167);
 }
